@@ -24,4 +24,4 @@ To get started with the application locally, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/777anishsingh/06currency-converter.git
+   git clone https://github.com/777anishsingh/forex-flow.git
